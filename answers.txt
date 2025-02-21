@@ -10,3 +10,7 @@ Answer: Finance, in the form of quantative analysts.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing adds to the main branch. Merging combines two branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning about datasets and the tools to interpret them
